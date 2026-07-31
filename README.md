@@ -85,78 +85,6 @@ const karan = {
 
 </div>
 
----
-
-## 📂 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏠 RentConnect
-Full-featured MERN rental platform connecting tenants and property owners, security-audited for production.
-
-- React 19 + Vite frontend, Node.js/Express 5 backend
-- MongoDB, JWT auth, ImageKit for media, Socket.io for chat
-- Full security audit — vulnerabilities identified & fixed
-
-`MongoDB` `Express` `React` `Node.js` `JWT` `ImageKit`
-
-[🔗 Repository](https://github.com/YOUR_GITHUB_USERNAME/rentconnect)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚕 Uber Clone
-Ride-hailing web app replicating Uber's core booking experience with live maps and real-time updates.
-
-- React + Vite + Tailwind CSS, animated with GSAP
-- Real-time ride updates via Socket.io
-- Google Maps API for live location & routing
-
-`React` `Vite` `Tailwind` `GSAP` `Socket.io` `Google Maps API`
-
-[🔗 Repository](https://github.com/YOUR_GITHUB_USERNAME/uber-clone)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 SnapClass — AI Attendance System
-Automated classroom attendance system using facial and voice recognition.
-
-- dlib face recognition + Resemblyzer voice recognition
-- Streamlit app + Flask landing page (deployed on Vercel)
-- Supabase authentication, CPU-optimized deployment
-
-`Python` `dlib` `Resemblyzer` `Streamlit` `Flask` `Supabase`
-
-[🔗 Repository](https://github.com/YOUR_GITHUB_USERNAME/snapclass)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Resume ATS Scorer
-AI-powered resume analyzer that scores resumes against job descriptions using NLP and LLMs.
-
-- FastAPI backend + Streamlit frontend
-- spaCy & Sentence Transformers for semantic matching
-- Groq API (Llama 3) for AI-driven feedback
-
-`Python` `FastAPI` `Streamlit` `spaCy` `Groq` `Supabase`
-
-[🔗 Repository](https://github.com/YOUR_GITHUB_USERNAME/ai-resume-ats-scorer)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-📌 *More on my [pinned repositories](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)*
-
-</div>
 
 ---
 
@@ -190,15 +118,7 @@ AI-powered resume analyzer that scores resumes against job descriptions using NL
 
 </div>
 
-### 🧩 Coding Practice
 
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" width="60%"/>
-
-</div>
-
----
 
 ## 🗺️ My Journey
 
