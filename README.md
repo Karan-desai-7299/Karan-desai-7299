@@ -8,39 +8,33 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=2563eb" alt="Followers"/>
-<img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&color=22c55e" alt="Open to Work"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=2563eb" alt="Followers"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-success?style=flat-square&color=22c55e" alt="Open to Work"/>
 
 </div>
 
 <br/>
 
-## 👋 Introduction
+## 👋 About Me
 
-Hi, I'm **Karansinh Desai** (a.k.a. **Karan**) — a B.Tech Computer Science Engineering student building real, production-ready software at the intersection of **Full Stack Development** and **Artificial Intelligence**. I love turning ideas into deployed applications, debugging deep into root causes instead of patching symptoms, and constantly leveling up my stack.
+Hi, I'm **Karansinh Desai** (a.k.a. **Karan**) — a B.Tech Computer Science Engineering student building real, production-ready software at the intersection of **Full Stack Development** and **Artificial Intelligence**. I care about shipping things that work end-to-end, tracing bugs to their root cause, and constantly leveling up my stack.
 
-```
+```javascript
 const karan = {
     role: "Aspiring AI Engineer",
     education: "B.Tech CSE @ Ashokrao Mane Group of Institutions, Kolhapur",
     stack: ["MERN", "Python", "FastAPI", "AI/ML", "LLMs"],
-    currentGoal: "AI Engineer role | ₹50 LPA by 2027",
+    focus: "Building scalable AI-powered applications that solve real-world problems",
     funFact: "I ship, debug, and redeploy until it actually works 🚀"
 };
 ```
 
----
-
-## 🚀 About Me
-
 - 🎓 B.Tech in **Computer Science Engineering**, AMGOI Kolhapur (CGPA **7.9**) — Class of **2027**
 - 🧑‍💻 **AI/ML + Python Full Stack Intern** via AICTE–EduSkills
 - 🏅 **State Finalist — IndiaSkills 2025–26** (Web Technologies)
-- 🔭 Currently building and shipping full-stack + AI-powered projects
 - 🌱 Deepening my skills in **LLMs, Generative AI, and applied Machine Learning**
-- 🎯 Targeting an **AI Engineer** role, with a goal of **₹50 LPA by 2027**
-- ⚡ Fun fact: I'd rather find the *root cause* of a bug than patch the symptom
+- 🎯 Goal: **Build scalable AI-powered applications that solve real-world problems**
 
 ---
 
@@ -48,57 +42,46 @@ const karan = {
 
 <div align="center">
 
-### Languages
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-### Frontend
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 
-### Backend
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+**Backend & Databases**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
 
-### Databases
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+**AI / ML**
+<br/>
+<img src="https://img.shields.io/badge/Machine_Learning-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 
-### Tools & Platforms
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-
-</div>
-
----
-
-## 🧠 AI & ML Skills
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Machine_Learning-2563EB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-2563EB?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sentence_Transformers-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+**Tools & Platforms**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
 
 </div>
 
@@ -110,26 +93,23 @@ const karan = {
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Resume ATS Scorer
-AI-powered resume analyzer that scores resumes against job descriptions using NLP and LLMs.
+### 🏠 RentConnect
+Full-featured MERN rental platform connecting tenants and property owners, security-audited for production.
 
-**Highlights**
-- FastAPI backend + Streamlit frontend
-- spaCy & Sentence Transformers for semantic matching
-- Groq API (Llama 3) for AI-driven feedback
-- Supabase for auth & storage, WeasyPrint for PDF reports
+- React 19 + Vite frontend, Node.js/Express 5 backend
+- MongoDB, JWT auth, ImageKit for media, Socket.io for chat
+- Full security audit — vulnerabilities identified & fixed
 
-`Python` `FastAPI` `Streamlit` `spaCy` `Groq` `Supabase`
+`MongoDB` `Express` `React` `Node.js` `JWT` `ImageKit`
 
-[🔗 Repository](https://github.com/YOUR_GITHUB_USERNAME/ai-resume-ats-scorer)
+[🔗 Repository](https://github.com/YOUR_GITHUB_USERNAME/rentconnect)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🚕 Uber Clone
-A ride-hailing web app replicating Uber's core booking experience with live maps and real-time updates.
+Ride-hailing web app replicating Uber's core booking experience with live maps and real-time updates.
 
-**Highlights**
 - React + Vite + Tailwind CSS, animated with GSAP
 - Real-time ride updates via Socket.io
 - Google Maps API for live location & routing
@@ -143,25 +123,9 @@ A ride-hailing web app replicating Uber's core booking experience with live maps
 <tr>
 <td width="50%" valign="top">
 
-### 🏠 RentConnect
-A full-featured MERN rental platform connecting tenants and property owners, audited and hardened for production.
-
-**Highlights**
-- React 19 + Vite frontend, Node.js/Express 5 backend
-- MongoDB, JWT auth, ImageKit for media, Socket.io for chat
-- Full security audit — vulnerabilities identified & fixed
-
-`MongoDB` `Express` `React` `Node.js` `JWT` `ImageKit`
-
-[🔗 Repository](https://github.com/YOUR_GITHUB_USERNAME/rentconnect)
-
-</td>
-<td width="50%" valign="top">
-
 ### 🎓 SnapClass — AI Attendance System
-Automated attendance system using facial and voice recognition for classrooms.
+Automated classroom attendance system using facial and voice recognition.
 
-**Highlights**
 - dlib face recognition + Resemblyzer voice recognition
 - Streamlit app + Flask landing page (deployed on Vercel)
 - Supabase authentication, CPU-optimized deployment
@@ -171,14 +135,104 @@ Automated attendance system using facial and voice recognition for classrooms.
 [🔗 Repository](https://github.com/YOUR_GITHUB_USERNAME/snapclass)
 
 </td>
+<td width="50%" valign="top">
+
+### 🤖 AI Resume ATS Scorer
+AI-powered resume analyzer that scores resumes against job descriptions using NLP and LLMs.
+
+- FastAPI backend + Streamlit frontend
+- spaCy & Sentence Transformers for semantic matching
+- Groq API (Llama 3) for AI-driven feedback
+
+`Python` `FastAPI` `Streamlit` `spaCy` `Groq` `Supabase`
+
+[🔗 Repository](https://github.com/YOUR_GITHUB_USERNAME/ai-resume-ats-scorer)
+
+</td>
 </tr>
 </table>
 
 <div align="center">
 
-📌 *More projects on my [pinned repositories](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories) — including a fine-tuned T5 Text Summarizer and a Gemini-powered AI Personal Assistant.*
+📌 *More on my [pinned repositories](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)*
 
 </div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="49%"/>
+
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>Generated via <a href="https://github.com/Platane/snk">Platane/snk</a> — requires a one-time GitHub Actions setup in your profile repo (see note below).</sub>
+
+</div>
+
+### 🧩 Coding Practice
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" width="60%"/>
+
+</div>
+
+---
+
+## 🗺️ My Journey
+
+<div align="center">
+
+```
+2023 ─── Started Programming (C / C++, DSA fundamentals)
+  │
+2024 ─── Web Development (HTML, CSS, JavaScript)
+  │
+2025 ─── MERN Stack + Full Stack Projects
+  │
+2026 ─── AI / ML + Full Stack (LLMs, NLP, Production Deployments)
+  │
+2027 ─── AI Engineer (Target)
+```
+
+</div>
+
+---
+
+## 🚀 Currently Working On
+
+- 🤖 Refining the **AI Resume ATS Scorer**
+- 🏗️ Polishing production MERN projects (RentConnect, Uber Clone)
+- 🧠 Exploring **LLM-powered applications** and RAG pipelines
+- 🌱 Strengthening **DSA** and system design fundamentals
+
+## 🌍 Open Source Goals
+
+- [ ] Make my first open-source PR
+- [ ] Participate in Hacktoberfest
+- [ ] Contribute to "good first issue" tagged repositories
+- [ ] Maintain an open-source project of my own
 
 ---
 
@@ -192,67 +246,23 @@ Automated attendance system using facial and voice recognition for classrooms.
 
 ---
 
-## 📈 GitHub Analytics
+## 🤝 Connect With Me
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Large_Language_Models-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative_AI-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG_Pipelines-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System_Design-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DSA-2563EB?style=for-the-badge"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
+<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 
 </div>
-
-## 🎯 2027 Goals
-
-- 🚀 Land an **AI Engineer** role with a target CTC of **₹50 LPA**
-- 🧩 Ship polished, production-grade AI + full-stack products
-- 🌍 Contribute meaningfully to open-source projects
-- 📖 Master LLMs, RAG, and applied deep learning at a production level
 
 ---
 
 ## 💡 Quote
 
 > *"The best way to predict the future is to build it."*
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-
-</div>
-
----
-
-## ☕ Fun Facts
-
-- 🐞 I enjoy root-causing bugs more than fixing symptoms
-- 🎥 I learn best from Hindi-language tech content
-- 🛠️ VS Code is my daily driver
-- 🏗️ I've debugged deployment issues ranging from CUDA disk quota exhaustion to broken API routing — and won every time
 
 <div align="center">
 
