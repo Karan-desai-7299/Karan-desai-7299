@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Scratch & temporary previews
+input/*_preview.png
+input/dark_opt*.png
+input/vis_*.png
+input/mask_*.png
+input/gray_filtered.png
+input/dark_tuned.png

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Karansinh Desai - GitHub Profile Preview</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      background-color: #0d1117;
+      color: #c9d1d9;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 40px 20px;
+      min-height: 100vh;
+      transition: background-color 0.3s, color 0.3s;
+    }
+    body.light-theme {
+      background-color: #f6f8fa;
+      color: #24292f;
+    }
+    .controls {
+      display: flex;
+      gap: 16px;
+      margin-bottom: 30px;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 14px;
+      font-weight: 600;
+      border: 1px solid #30363d;
+      border-radius: 6px;
+      background-color: #21262d;
+      color: #c9d1d9;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    body.light-theme button {
+      background-color: #ffffff;
+      border-color: #d0d7de;
+      color: #24292f;
+    }
+    button:hover {
+      background-color: #30363d;
+    }
+    body.light-theme button:hover {
+      background-color: #f3f4f6;
+    }
+    .preview-container {
+      width: 100%;
+      max-width: 980px;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      padding: 30px;
+      background-color: #0d1117;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+    }
+    body.light-theme .preview-container {
+      background-color: #ffffff;
+      border-color: #d0d7de;
+      box-shadow: 0 8px 24px rgba(140,149,159,0.2);
+    }
+    .banner-img {
+      width: 100%;
+      height: auto;
+      border-radius: 10px;
+      display: block;
+    }
+    .badge-row {
+      display: flex;
+      justify-content: center;
+      gap: 12px;
+      margin: 30px 0;
+      flex-wrap: wrap;
+    }
+    .stats-row {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      margin-top: 20px;
+      flex-wrap: wrap;
+    }
+    .stats-card {
+      width: calc(50% - 8px);
+      height: auto;
+      border-radius: 6px;
+    }
+    @media (max-width: 768px) {
+      .stats-card {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="controls">
+    <button onclick="toggleTheme('dark')">🌙 Dark Theme (dark.svg)</button>
+    <button onclick="toggleTheme('light')">☀️ Light Theme (light.svg)</button>
+  </div>
+
+  <div class="preview-container">
+    <img id="banner" class="banner-img" src="dark.svg" alt="Animated Terminal Banner" />
+
+    <div class="badge-row">
+      <a href="https://www.linkedin.com/in/karansinh-desai/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="https://karansinh-portfolio.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" />
+      </a>
+      <a href="mailto:karansinhdesai91@gmail.com">
+        <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+      </a>
+      <a href="https://leetcode.com/u/karan_desai_/" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-0A101F?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0A101F" alt="LeetCode" />
+      </a>
+      <a href="https://karansinh-portfolio.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Resume-0A101F?style=for-the-badge&logo=adobeacrobatreader&logoColor=EF4444&labelColor=0A101F" alt="Resume" />
+      </a>
+    </div>
+
+    <img style="width: 100%; margin-bottom: 20px;" src="https://streak-stats.demolab.com/?user=Karan-desai-7299&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="Streak Stats" />
+
+    <div class="stats-row">
+      <img class="stats-card" src="https://github-readme-stats.vercel.app/api?username=Karan-desai-7299&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="GitHub Stats" />
+      <img class="stats-card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-desai-7299&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Top Languages" />
+    </div>
+  </div>
+
+  <script>
+    function toggleTheme(theme) {
+      const banner = document.getElementById('banner');
+      if (theme === 'light') {
+        document.body.classList.add('light-theme');
+        banner.src = 'light.svg';
+      } else {
+        document.body.classList.remove('light-theme');
+        banner.src = 'dark.svg';
+      }
+    }
+  </script>
+</body>
+</html>
