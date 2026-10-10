@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/LeetCode-0A101F?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0A101F" alt="LeetCode" />
 </a>
 &nbsp;&nbsp;
-<a href="https://karansinh-portfolio.vercel.app/" target="_blank">
+<a href="https://karansinh-portfolio.vercel.app/resume" target="_blank">
   <img src="https://img.shields.io/badge/Resume-0A101F?style=for-the-badge&logo=adobeacrobatreader&logoColor=EF4444&labelColor=0A101F" alt="Resume" />
 </a>
 
