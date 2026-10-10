@@ -126,6 +126,9 @@
       </a>
     </div>
 
+    <!-- High-density contribution heatmap -->
+    <img id="heatmap" style="width: 100%; margin-bottom: 24px; border-radius: 10px;" src="contributions-dark.svg" alt="Yearly Commit Activity Heatmap" />
+
     <img style="width: 100%; margin-bottom: 20px;" src="https://streak-stats.demolab.com/?user=Karan-desai-7299&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="Streak Stats" />
 
     <div class="stats-row">
@@ -137,12 +140,15 @@
   <script>
     function toggleTheme(theme) {
       const banner = document.getElementById('banner');
+      const heatmap = document.getElementById('heatmap');
       if (theme === 'light') {
         document.body.classList.add('light-theme');
         banner.src = 'light.svg';
+        heatmap.src = 'contributions-light.svg';
       } else {
         document.body.classList.remove('light-theme');
         banner.src = 'dark.svg';
+        heatmap.src = 'contributions-dark.svg';
       }
     }
   </script>
